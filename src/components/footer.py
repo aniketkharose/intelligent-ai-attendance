@@ -2,10 +2,10 @@ import streamlit as st
 
 
 def footer_home():
-    logo_url = "https://i.ibb.co/k2mTCGgM/99a873bb-39b6-40bd-9e6f-5e769472e6db.png"
+    logo_url = "https://i.ibb.co/xSfk7NWg/Codex-Image-Sep-6-2026-04-03-27-PM.png"
     
     st.markdown(f"""
-        <div style="margin-top:2rem; display:flex; gap:6px; justify-content:center; items-align:center">
+        <div style="margin-top:2rem; display:flex; gap:6px; justify-content:center; align-items:center">
         <p style="font-weight:bold; color:white;"> Developed with ❤️ by  </p>  
         <img src='{logo_url}' style='max-height:45px' />
         </div>
@@ -14,10 +14,10 @@ def footer_home():
 
 
 def footer_dashboard():
-    logo_url = "https://i.ibb.co/k2mTCGgM/99a873bb-39b6-40bd-9e6f-5e769472e6db.png"
+    logo_url = "https://i.ibb.co/xSfk7NWg/Codex-Image-Sep-6-2026-04-03-27-PM.png"
     
     st.markdown(f"""
-        <div style="margin-top:2rem; display:flex; gap:6px; justify-content:center; items-align:center">
+        <div style="margin-top:2rem; display:flex; gap:6px; justify-content:center; align-items:center">
         <p style="font-weight:bold; color:black;"> Developed with ❤️ by  </p>  
         <img src='{logo_url}' style='max-height:45px' />
         </div>
