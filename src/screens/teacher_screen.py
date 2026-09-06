@@ -9,6 +9,8 @@ from src.components.dialog_create_subject import create_subject_dialog
 from src.components.subject_card import subject_card
 from src.components.dialog_share_subject import share_subject_dialog
 from src.components.dialog_add_phaoto import add_photos_dialog
+from src.pipelines.face_pipeline import predict_attendance
+from src.database.config import supabase
 
 def teacher_screen():
 
