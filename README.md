@@ -12,6 +12,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-SVM-F7931E?logo=scikitlearn&logoColor=white)
 ![Dlib](https://img.shields.io/badge/Dlib-Face%20AI-00A86B)
 ![Voice](https://img.shields.io/badge/Resemblyzer-Voice%20AI-8B5CF6)
+![License](https://img.shields.io/github/license/aniketkharose/intelligent-ai-attendance)
+![Release](https://img.shields.io/github/v/release/aniketkharose/intelligent-ai-attendance)
 
 [🚀 Live Demo](https://sanpclass-aniketkharose.streamlit.app/) ·
 [💻 Source Code](https://github.com/aniketkharose/intelligent-ai-attendance)
@@ -377,7 +379,9 @@ BE Electronics & Telecommunication Engineering
 
 ## 📄 License
 
-No open-source license is specified yet. To allow others to reuse the code, add a `LICENSE` file such as MIT or Apache-2.0.
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
